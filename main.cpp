@@ -18,7 +18,7 @@ int main() {
 
     do {
         cout << "\n=== MOKINIU PAYMIU SISTEMA ===\n";
-        cout << "1. Ivesti mokini ir jo paymius\n";
+        cout << "1. Ivesti mokini ir jo paymius\n .";
         cout << "2. Periureti visu mokiniu paymius\n";
         cout << "3. Periureti konkretaus mokinio paymius\n";
         cout << "4. Atnaujinti paymi\n";
